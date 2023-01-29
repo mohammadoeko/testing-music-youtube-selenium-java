@@ -2,7 +2,7 @@
 #### - selenium java, web driver manager, cucumber java, extentreports, commons io, testNG
 
 ## Cara Install & menjalankan test
-#### - download file zip dan ekstrak file. Untuk menjalankan test ada di folder test -> java -> RunnerTest.java
+#### - download file zip dan ekstrak file. Untuk menjalankan test ada di folder src -> test -> java -> RunnerTest.java
 
 ## Extend Report
 #### Sign In & Search
